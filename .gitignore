@@ -1,0 +1,4 @@
+# Add standard Python ignore files (if using Python)
+echo "__pycache__/" >> .gitignore
+echo "*.py[cod]" >> .gitignore
+echo ".env" >> .gitignore
